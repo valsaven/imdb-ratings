@@ -1,0 +1,24 @@
+{
+  "name": "imdb-ratings",
+  "version": "1.0.0",
+  "description": "Get user ratings from IMDb by userId",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valsaven/imdb-ratings.git"
+  },
+  "keywords": ["imdb", "ratings"],
+  "author": "Val Saven <val.saven@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valsaven/imdb-ratings/issues"
+  },
+  "homepage": "https://github.com/valsaven/imdb-ratings#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
