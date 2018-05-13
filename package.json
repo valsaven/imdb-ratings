@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/valsaven/imdb-ratings.git"
   },
-  "keywords": ["imdb", "ratings"],
+  "keywords": [
+    "imdb",
+    "ratings"
+  ],
   "author": "Val Saven <val.saven@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -18,7 +21,7 @@
   },
   "homepage": "https://github.com/valsaven/imdb-ratings#readme",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2"
   }
 }
